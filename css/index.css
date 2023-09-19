@@ -1,0 +1,10 @@
+/* BASE STYLES */
+@import "./base/common.css";
+@import "./base/container.css";
+
+/* UTILS STYLES */
+@import "./utils/visually-hidden.css";
+@import "./utils/variables.css";
+
+/* LAYOUT STYLES */
+@import "./layout/header.css";
