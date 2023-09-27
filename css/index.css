@@ -8,3 +8,9 @@
 
 /* LAYOUT STYLES */
 @import "./layout/header.css";
+@import "./layout/hero-section.css";
+@import "./layout/our-features-section.css";
+@import "./layout/our-team-section.css";
+@import "./layout/our-portfolio-section.css";
+@import "./layout/footer.css";
+@import "./layout/modal.css";
